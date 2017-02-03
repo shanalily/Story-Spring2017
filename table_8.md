@@ -1,4 +1,4 @@
-shanalily:
+Shoshana Malfatto:
 
 [Atom](https://github.com/atom/atom)
 
