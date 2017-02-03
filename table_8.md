@@ -19,3 +19,6 @@ Some ideas of projects I'd like to contribute to:
 
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/)
 - [Alda](https://github.com/alda-lang/alda)
+
+Joyce Yom: 
+[adarkroom](https://github.com/doublespeakgames/adarkrooms)
