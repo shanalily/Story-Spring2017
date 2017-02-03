@@ -1,6 +1,7 @@
 Shoshana Malfatto:
 
-[Atom](https://github.com/atom/atom)
+- [Atom](https://github.com/atom/atom)
+- [Electron](https://github.com/electron/electron/tree/master/script)
 
 Daniel Petti:
 
